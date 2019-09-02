@@ -13,8 +13,9 @@
 .grid__item.aboutMe,
 .grid__item.leadSpices,
 .grid__item.leadProducts,
+.lead, .lead2, .lead3,
 .grid__item.leadSurya,
-.grid__item.testFrame
+.grid__item.testFrame .textCont
 {
   line-height: 1.5;
 } 
