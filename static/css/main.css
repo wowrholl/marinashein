@@ -16,7 +16,8 @@
 .lead, .lead2, .lead3,
 .grid__item.leadSurya,
 .grid__item.testFrame .textCont,
-.heropic
+.heropic,
+.grid.rrr
 {
   line-height: 1.5;
 } 
