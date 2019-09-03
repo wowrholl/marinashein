@@ -17,7 +17,7 @@
 .grid__item.leadSurya,
 .grid__item.testFrame .textCont,
 .heropic,
-.grid.rrr
+.grid__item.quote span.accent
 {
   line-height: 1.5;
 } 
